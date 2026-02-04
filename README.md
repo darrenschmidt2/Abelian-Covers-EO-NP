@@ -1,2 +1,3 @@
+# Ekedahl-Oort Types and Newton Polygons of Abelian Covers of P1 Branched at Three Points
 This code was written to generate the data in the paper "Ekedahl-Oort Types and Newton Polygons of Abelian Covers
 of P1 Branched at Three Points" by Darren Schmidt. Some of the code was taken from https://github.com/jeremybooher/supersingular-3pointed-covers, by Jeremy Booher and Rachel Pries, used and modified with permission. We enumerate every abelian cover of P^1 branched at three points with a given genus, and then compute the natural density of the primes such that the curves are supersingular, superspecial, and where the Newton polygons and Ekedahl-Oort types are unlikely.
