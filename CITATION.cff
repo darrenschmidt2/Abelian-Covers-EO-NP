@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Ekedahl-Oort Types and Newton Polygons of Abelian Covers
+  of P1 Branched at Three Points
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Darren Schmidt
+repository-code: >-
+  https://github.com/darrenschmidt2/Abelian-Covers-EO-NP/tree/main
